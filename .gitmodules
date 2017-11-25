@@ -1,6 +1,6 @@
 [submodule "third_party/zopfli"]
 	path = third_party/zopfli
-	url = https://code.google.com/p/zopfli/
+	url = git://github.com/google/zopfli.git
 [submodule "third_party/libimagequant"]
 	path = third_party/libimagequant
 	url = git://github.com/pornel/improved-pngquant.git
